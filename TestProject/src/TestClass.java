@@ -8,6 +8,8 @@ public class TestClass {
 	
 	private int a;
 	
+	/* Adding a comment */
+	
 	public int getInteger() { return integer; }
 	public double getDoubleNr(){ return doubleNr; }
 	
